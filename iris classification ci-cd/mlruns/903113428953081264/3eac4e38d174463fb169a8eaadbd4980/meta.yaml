@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/New%20folder%20%2817%29/iris-classification-ci-cd/mlruns/903113428953081264/3eac4e38d174463fb169a8eaadbd4980/artifacts
+end_time: 1728287147129
+entry_point_name: ''
+experiment_id: '903113428953081264'
+lifecycle_stage: active
+run_id: 3eac4e38d174463fb169a8eaadbd4980
+run_name: fun-dolphin-782
+run_uuid: 3eac4e38d174463fb169a8eaadbd4980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728287144496
+status: 3
+tags: []
+user_id: Admin

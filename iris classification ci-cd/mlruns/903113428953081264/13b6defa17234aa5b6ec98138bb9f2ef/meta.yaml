@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/New%20folder%20%2817%29/iris-classification-ci-cd/mlruns/903113428953081264/13b6defa17234aa5b6ec98138bb9f2ef/artifacts
+end_time: 1728287138724
+entry_point_name: ''
+experiment_id: '903113428953081264'
+lifecycle_stage: active
+run_id: 13b6defa17234aa5b6ec98138bb9f2ef
+run_name: brawny-penguin-833
+run_uuid: 13b6defa17234aa5b6ec98138bb9f2ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728287135707
+status: 3
+tags: []
+user_id: Admin
